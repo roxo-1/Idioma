@@ -3,8 +3,8 @@ Exercício Programa 2 (EP2)
 Projeto e Análise de Algoritmos I
 Prof. Antonio Luiz Basile, Universidade Presbiteriana Mackenzie 25/04/2025
 ## Membros do projeto
-Carolina Lee
-Pedro Henrique Saraiva
+. Carolina Lee
+. Pedro Henrique Saraiva
 ## 1 Descrição
 Um modo de se supor o idioma em que um texto foi escrito é através da probabilidade de
 ocorrência das letras deste texto. Dado um pequeno texto de entrada (via teclado), sua tarefa
