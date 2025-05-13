@@ -1,4 +1,5 @@
 // Carolina Lee - 10440304
+// Pedro Henrique Saraiva Arruda - 10437747
 #include <stdio.h>
 
 int main() {
