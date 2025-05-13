@@ -2,9 +2,6 @@
 #include <stdio.h>
 
 int main() {
-    #include <stdio.h>
-
-int main() {
     char texto[100];  // Vetor para armazenar até 99 caracteres + '\0'
 
     printf("Digite um texto: ");
@@ -12,9 +9,5 @@ int main() {
 
     printf("Você digitou: %s", texto);
 
-    return 0;
-}
-
-    
     return 0;
 }
