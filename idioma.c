@@ -37,7 +37,8 @@ int main() {
     } else if (score_en > score_pt) {
         printf("O idioma do texto esta em ingles.\n");
     } else {
-        printf("Nao foi possivel detectar o idioma com base nas letras analisadas.\n");
+        printf("Nao foi possivel detectar o idioma com base nas letras analisadas, tente novamente.\n");
+        return main();
     }
 
     return 0;
